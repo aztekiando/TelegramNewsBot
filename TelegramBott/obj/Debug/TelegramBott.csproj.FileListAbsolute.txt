@@ -1,0 +1,15 @@
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\bin\Debug\TelegramBott.exe.config
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\bin\Debug\TelegramBott.exe
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\bin\Debug\TelegramBott.pdb
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\bin\Debug\Telegram.Bot.dll
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\bin\Debug\Telegram.Bot.xml
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\obj\Debug\TelegramBott.csprojAssemblyReference.cache
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\obj\Debug\TelegramBott.csproj.CoreCompileInputs.cache
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\obj\Debug\TelegramBott.csproj.CopyComplete
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\obj\Debug\TelegramBott.exe
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\obj\Debug\TelegramBott.pdb
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kasla\source\repos\TelegramBott\TelegramBott\bin\Debug\HtmlAgilityPack.xml
